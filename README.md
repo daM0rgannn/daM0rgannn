@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning React.js / Next.js
 
-- 💬 Ask me about for Front-End HTML , CSS, javaScript vue.js / Back-end php laravel / Database phpmyadmin and studying how to write react.js next.js
-
 - 📫 How to reach me Email:Phannita.dew@hotmail.com
-
-- ⚡ Fun fact 
 
 ---
 
