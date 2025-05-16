@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Phannita Phumala [ Dew ]</h1>
 <h3 align="center">A passionate Web Developer [ Front-End & Back-End ] from Thailand </h3>
 
-- 🔭 I’m currently working on React.js / Next.js
+- 🔭 I’m currently working on Fullstack Website Developer to using HTML , CSS , javaScript / Framework php laravel, vue.js, bootstrap and tailwind css
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning React.js / Next.js
 
 - 💬 Ask me about for Front-End HTML , CSS, javaScript vue.js / Back-end php laravel / Database phpmyadmin and studying how to write react.js next.js
 
@@ -15,7 +15,7 @@
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,laravel,php,mysql,tailwind,html,css,figma,git" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,laravel,php,mysql,tailwind,bootstrap,html,css,figma,git" />
 </p>
 
 ---
